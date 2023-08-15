@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853716157789",
+    "project_id": "studentfb-c33ad",
+    "storage_bucket": "studentfb-c33ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853716157789:android:da414e8ddcd16ee2e9d4b4",
+        "android_client_info": {
+          "package_name": "com.example.studentfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853716157789-botgfckkpugjvaplu7rf156vat2oe5j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeBn-yCH8g6v78yG3P6AEf2ulYCJxdpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853716157789-botgfckkpugjvaplu7rf156vat2oe5j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
